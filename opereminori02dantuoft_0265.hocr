@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opereminori02dantuoft_0265.png"; bbox 0 0 2054 3262; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1493 3262">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1493 3262">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 972 1085; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 972 1085; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1085 1493 3262; baseline 0 -1820"><span class='ocrx_word' id='word_1_2' title='bbox 0 1085 1493 3262; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 475 855 1498 949">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 475 855 1498 949">
+     <span class='ocr_line' id='line_1_3' title="bbox 475 855 1498 949; baseline -0.003 -26"><span class='ocrx_word' id='word_1_3' title='bbox 475 906 484 932; x_wconf 75' lang='lat'><em>;</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 518 855 844 949; x_wconf 51' lang='lat' dir='ltr'><strong>*AN&#39;HS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 881 857 1498 922; x_wconf 77' lang='lat' dir='ltr'><strong>ALIGHERII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 829 989 1108 1053">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 829 989 1108 1053">
+     <span class='ocr_line' id='line_1_4' title="bbox 829 989 1108 1053; baseline -0.007 0"><span class='ocrx_word' id='word_1_6' title='bbox 829 989 1108 1053; x_wconf 61' lang='lat' dir='ltr'><strong>uenenum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 606 1058 1378 1282">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 501 1058 1378 1289">
+     <span class='ocr_line' id='line_1_5' title="bbox 606 1058 1378 1282; baseline -0.002 -49.239"><span class='ocrx_word' id='word_1_7' title='bbox 606 1058 1295 1282; x_wconf 8' lang='lat' dir='ltr'><strong>*uoNARcHIAss</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1375 1274 1378 1278; x_wconf 5' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
